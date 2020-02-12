@@ -57,5 +57,50 @@ Server side rakendused võib jaga kahte liiki:
 
 Kumba lähenemist süsteemis kasutada on üsna oluline esimene arhitektuurne otsus. Erinevate ülesannete jaoks sobivad erinevad asjad, alati loeb ka arendustiimi senine kogemus.
 
+## Server side rakendused ja andmebaasid
 
+Server side rakendused kasutavad tihti ka relatsioonilist andmebaasi - seal on mugav andmeid hoida, sealt saab SQL keele abil (võrdlemisi) standardselt andmeid pärida. Tüüpiliselt on andmebaasi tarvara serverlahendus, analoogselt veebiserverile. Aga arenduseks ja väga väikesteks lahendusteks võib sobida ka näiteks SQLite, mille puhul andmebaasimootor käivitatakse otse rakenduses.
+
+Tüüpiline sündmuste ahel andmebaasi kasutavas server side rakenduses on:
+
+1. Lehitsejast saabub päring, näiteks aadressile http://www.rakendus.ee/api/products
+2. Serveri vaatenurgast küsitakse /products, server side rakenduses on keegi programmeerinud sellele vastama toodete nimekirja väljastamise, see käivitatakse
+3. Väljastamiseks koostab server side rakendus SQL päringu ja edastab selle andmebaasiserverile/-mootorile
+4. Andmebaasiserver/-mootor muretseb omal, optimeeritud moel, soovitud andmed ja tagastab need server side rakendusele
+5. Server side rakendus, sõltuvalt kas ta on realiseeritud tavarakendusena või API-na vastavalt kas liidab andmed HTML malliga või siis konverteerib need JSON kujule ning tagastab tulemuse mõlemal juhul lehitsejale.
+
+Näiteks oletades, et igal tootel on ainult identifikaator ja nimi ning kasutades API rakenduses Flaski ja SQLite, võiks lahendus välja näha (näite alus võetud https://test-flask.readthedocs.io/en/latest/patterns/sqlite3.html)
+
+```
+import sqlite3
+from flask import (
+    g,
+    list,
+    jsonify
+)
+
+# Kus asub SQLite andmebaasi fail, täpsemalt edaspidi sellest
+DATABASE = 'products.db'
+
+# Avame andmebaasi faili
+def get_db():
+    db = getattr(g, '_database', None)
+    if db is None:
+        db = g._database = sqlite3.connect(DATABASE)
+    return db
+
+# See on tegelik API "entry point" ehk koht millele veebirakendus vastab tagastades toodete nimekirja JSON formaadis
+@app.route('/products')
+def product_list():
+    db = get_db()
+    data = db.execute('select id, name from product order by name').fetchall()
+    return jsonify(list(data))
+   
+# Rakenduse töö lõppedes on tähtis andmebaasi fail sulgeda
+@app.teardown_appcontext
+def close_connection(exception):
+    db = getattr(g, '_database', None)
+    if db is not None:
+        db.close()
+```
 
