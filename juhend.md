@@ -1,6 +1,6 @@
 # Maod, pläskud ja veebirakendused
 
-## Veebirakendusest üldisest
+## Veebist üldisest
 
 Veebirakendusest on kasulik aru saada väga üldisel tasemel, eristades kõigepealt:
 
@@ -45,4 +45,12 @@ Kui serveris oleks vastanud isetehtud programm (kas siis otse või "läbi" veebi
 rakendusest, olgu ta siis tehtud Pythonis, Rubys, C#-is vms. Oluline vahe on, kus programm käib - kas serveris või kliendi lehitsejas.
 Loomulikult on tänapäeval rakendused peaaegu alati segu client side ja server side rakendustest.
 
+## Server side rakenduse siseelu
 
+Server side rakendus on tüüpiliselt nagu väike omaette veebiserver - talle edastatakse päringu aadress ja sellega kaasa antud andmed,
+rakendus vaatab aadressi pealt, millist tegevust ta peaks sooritama, näiteks baasist küsima andmeid ja need väljastama.
+
+Server side rakendused võib jaga kahte liiki:
+
+* Tavarakendused võtavad päringu, hangivad vajalikud andmed ja väljastavad vastuse HTML lehena. Lehitseja vaatest oleks tavarakenduse vastus nagu tavaline veebileht, lihtsalt see pannakse serveris dünaamiliselt kokku.
+* API-d suhtlevad reeglina ainult "puhaste" andmetega ehk siis kokkulepitud andmeformaatides, millel pole üldiselt HTML-i ja kujundusega mingit pistmist. Näiteks kui client side programmil (lehitsejas töötav JavaScript) on vaja toodete nimekirja, küsib ta üle API andmed serverist, paigutab andmed HTML malli ja seejärel lisab saadud (renderdatud) HTML-i veebilehele.
