@@ -4,8 +4,8 @@
 
 Veebirakendusest on kasulik aru saada väga üldisel tasemel, eristades kõigepealt:
 
-* Client side - asjad, mis juhtuvad rakenduse kasutaja internetilehitsejas
-* Server side - asjad, mis juhtuvad veebiserveris
+* Client side - asjad, mis juhtuvad rakenduse kasutaja internetilehitsejas. Tihti nimetatakse seda ka frontend
+* Server side - asjad, mis juhtuvad veebiserveris. Tihti nimetatakse seda osa backend.
 
 Ja tähtis on aru saada ka kuidas client side ja server side omavahel läbi saavad.
 Näiteks kui kasutaja sisestab lehitsejasse aadressi www.minurakendus.ee juhtub järgmine:
@@ -52,5 +52,10 @@ rakendus vaatab aadressi pealt, millist tegevust ta peaks sooritama, näiteks ba
 
 Server side rakendused võib jaga kahte liiki:
 
-* Tavarakendused võtavad päringu, hangivad vajalikud andmed ja väljastavad vastuse HTML lehena. Lehitseja vaatest oleks tavarakenduse vastus nagu tavaline veebileht, lihtsalt see pannakse serveris dünaamiliselt kokku.
-* API-d suhtlevad reeglina ainult "puhaste" andmetega ehk siis kokkulepitud andmeformaatides, millel pole üldiselt HTML-i ja kujundusega mingit pistmist. Näiteks kui client side programmil (lehitsejas töötav JavaScript) on vaja toodete nimekirja, küsib ta üle API andmed serverist, paigutab andmed HTML malli ja seejärel lisab saadud (renderdatud) HTML-i veebilehele.
+* Tavarakendused võtavad päringu, hangivad vajalikud andmed ja väljastavad vastuse HTML lehena. Lehitseja vaatest oleks tavarakenduse vastus nagu tavaline veebileht, lihtsalt see pannakse serveris dünaamiliselt kokku. Reaalses elus tavarakendused on tihti hübriidid - osa andmest hangitakse üle API-de.
+* HTTP API-d suhtlevad reeglina ainult "puhaste" andmetega, kokkulepitud andmeformaatides. Nende vastustel pole HTML-i ja veebilehe kujundusega mingit pistmist. Enamasti on andmevahetuse formaadiks JSON. Näiteks kui client side programmil (lehitsejas töötav JavaScript) on vaja toodete nimekirja, küsib ta üle API andmed serverist, paigutab andmed HTML malli ja seejärel lisab saadud (renderdatud) HTML-i veebilehele.
+
+Kumba lähenemist süsteemis kasutada on üsna oluline esimene arhitektuurne otsus. Erinevate ülesannete jaoks sobivad erinevad asjad, alati loeb ka arendustiimi senine kogemus.
+
+
+
