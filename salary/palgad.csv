@@ -1,0 +1,448 @@
+﻿Tööpere;Ametinimetus;Tase;Tase eristus;Punktid;Kuu põhipalk;Aasta kogupalk
+Administratiiv- ja bürootööd;Sekretär, vastusvõtusekretär, administraator;1;;105;1 096;14 188
+Administratiiv- ja bürootööd;Sekretär, assistent, sekretär-asjaajaja;2;;139;1 258;15 860
+Administratiiv- ja bürootööd;Vanemsekretär, sekretär-asjaajaja, büroojuht, juhatuse sekretär, juhi assistent;3;;184;1 606;20 555
+Administratiiv- ja bürootööd;Büroojuht, sekretariaadi juhataja;4;;244;1 880;24 505
+Administratiiv- ja bürootööd;Juhtkonna assistent, juhatuse nõunik;5;;323;2 510;32 072
+Ajakirjandus;Reporter, ajakirjanik, korrespondent;1;;184;-;-
+Ajakirjandus;Reporter, ajakirjanik, korrespondent;2;A;244;-;-
+Ajakirjandus;Toimetaja;2;B;244;1 686;21 542
+Ajakirjandus;Toimetuse juht, osakonna juhataja ;3;;371;-;-
+Ajakirjandus;Tegevtoimetaja;4;;492;;
+Ajakirjandus;Programmi direktor, peatoimetaja;5;;566;-;-
+Andmeanalüüs;Andmeanalüütik, andmehaldur, andmeaida rakenduse administraator, data steward;1;;184;1 520;18 931
+Andmeanalüüs;Andmeanalüütik, ärianalüüsi spetsialist, ärianalüüsi konsultant, ärianalüüsi arendaja, andmeaida teenusehaldur, andmeaida administraator, data steward;2;;244;2 235;27 831
+Andmeanalüüs;Big Data Analyst, vanemanalüütik, andmeaida vanemadministraator, juhtivanalüütik, andmekaevur;3;;323;2 921;37 047
+Andmeanalüüs;Senior Big Data Expert, valdkonnajuht, ärianalüüsi vanem-ekspert, andmekaeve juht;4;;427;3 608;45 571
+Andmeanalüüs;Andmeaida juht, andmeanalüüsi juht;5;;566;5 042;64 541
+Andmekaitse;Andmekaitse spetsialist;1;;244;2 134;27 398
+Andmekaitse;Andmekaitse juhtivspetsialist;2;;323;2 877;35 973
+Arhitektuur;Rakendusarhitekt, projekteerija;1;;184;;
+Arhitektuur;Diplomeeritud arhitekt;2;;281;;
+Arhitektuur;Volitatud arhitekt;3;;371;;
+Auditeerimine;Nooremaudiitor, audiitori assistent;1;;184;-;-
+Auditeerimine;Audiitor, finantsaudiitor;2;;281;2 147;27 177
+Auditeerimine;Juhtiv audiitor, vanemaudiitor;3;;323;2 625;33 214
+Auditeerimine;Auditi juht organisatsioonis, kus ei rakendata tsentraliseeritud siseauditit (ehk ühes organisatsioonis), auditijuht, osakonna juhataja;4;;371;3 027;38 551
+Auditeerimine;Auditi juht suures organisatsioonis;5;;492;3 683;48 925
+Auditeerimine;Auditi juht suures organisatsioonis;6;;566;4 762;61 619
+Digiturundus;Sotsiaalmeedia assistent, e-turunduse assistent, sotsiaalmeediakanalite haldur;1;;160;1 503;18 325
+Digiturundus;Sotsiaalmeedia spetsialist, e-turunduse spetsialist, sotsiaalmeedia toimetaja;2;;244;2 105;26 150
+Dispetšerid;Dispetšer, operaator, transpordidispetšer;1;;121;926;12 607
+Dispetšerid;Dispetšer, operaator, vanemoperaator, operatiivkorrapidaja;2;;160;1 225;17 181
+Dispetšerid;Vahetuse vanem, vanemdispetšer;3;;212;1 607;22 786
+Dispetšerid;Vahetuse vanem, struktuurüksuse juhataja, grupijuht, lennudispetšer;4;;281;2 299;31 084
+Dispetšerid;Struktuurüksuse juhataja, kontrollkeskuse juht;5;;427;-;-
+E-Kaubandus;E-kaubanduse assistent, e-kaubanduse spetsialist, e-kaubanduse tugispetsialist, digitaalse toote spetsialist ;1;;160;1 276;16 473
+E-Kaubandus;E-kaubanduse koordinaator, noorem e-kaubanduse projektijuht, e-poe spetsialist, e-kaubanduse müügispetsialist;2;;212;1 590;20 603
+E-Kaubandus;Elektrooniliste kanalite arendusjuht, e-kaubanduse juht, e-kaubanduse projektijuht, e-kaubanduse arendusjuht, digitaalsete kanalite äriarendusjuht;3;;281;2 168;26 920
+E-Kaubandus;E-kaubanduse juht, e-kaubanduse vanemprojektijuht, e-kaubanduse müügijuht, Online müügijuht, elektrooniliste kanalite arendusüksuse juht;4;;323;2 945;38 492
+E-Kaubandus;Elektrooniliste kanalite arendusosakonna juhataja, e-kaubanduse juht, e-kaubanduse osakonnajuht, e-kanalite arendusjuht, elektrooniliste kanalite arendusüksuse juht;5;;427;;
+Farmatseudid;Abiline, õpilane, kassapidaja;1;;139;794;10 160
+Farmatseudid;Käsimüüja, farmatseut;2;;184;-;-
+Farmatseudid;Retseptar, proviisor, vanem farmatseut;3;;212;1 557;20 222
+Farmatseudid;Vanem proviisor, vastutav proviisor;4;;244;-;-
+Farmatseudid;Väikese ja keskmise apteegi juhataja (kuni 10 inimest);5;;281;1 797;23 139
+Farmatseudid;Suure apteegi juhataja (rohkem kui 10 inimest);6;;371;-;-
+Finantsanalüüs, -planeerimine ja -kontroll;Nooremanalüütik, ökonomist;1;;160;1 522;19 383
+Finantsanalüüs, -planeerimine ja -kontroll;Finantsanalüütik, ärianalüütik, ökonomist;2;;212;1 894;23 955
+Finantsanalüüs, -planeerimine ja -kontroll;Vanemökonomist, vanemfinantsanalüütik, finantskontroller;3;;281;2 425;31 445
+Finantsanalüüs, -planeerimine ja -kontroll;Ärikontroller, riigikontroller, valdkonna juht (pole alluvaid), finantskontroller, peaanalüütik;4;;427;3 119;41 296
+Finantsjuhtimine;Finantsosakonna juhataja, finantsvaldkonna juht, kontroller;1;;492;3 411;45 538
+Finantsjuhtimine;Finantsdirektor, finantsjuht, finants- ja administratiivjuht, kontroller;2;;566;4 139;55 297
+Finantsjuhtimine;Finantsdirektor suures organisatsioonis, finantsdivisjoni juht, finants- ja administratsioonidirektor;3;;651;5 497;71 674
+Finantstooted ja -turud (back/middle);Rahaturutehingute spetsialist, tuletisinstrumentide spetsialist, raamatupidamise vanemspetsialist;1;;212;1 804;22 632
+Finantstooted ja -turud (back/middle);Valuuta- ja rahaturutehingute valdkonnajuht, vanemspetsialist;2;;281;1 983;26 443
+Finantstooted ja -turud (front);Diiler, spetsialist, bilansihaldur;1;;244;2 054;26 123
+Finantstooted ja -turud (front);Vanemspetsialist, bilansihaldur, finantstoodete müügi vanemspetsialist, investeeringute ja vahendite haldur ;2;;323;2 854;36 240
+Finantsvara haldus;Spetsialist, finantsist;1;;281;2 077;27 082
+Finantsvara haldus;Treasurer;2;;492;3 780;48 233
+Geodeesia;Geodeet;1;;160;-;-
+Geodeesia;Projektijuht;2;;244;-;-
+Geodeesia;Geodeet-grupijuht, geodeesia üksuse juht, geodeesia divisjoni juht;3;;323;;
+Graafiline disain;Trükimeedia kujundaja-küljendaja, disainer-küljendaja, ajakirjade-ajalehtede küljendaja, noorem-illustraator, noorem-reklaamgraafik;1;;160;1 408;17 838
+Graafiline disain;Vanemkujundaja - küljendaja, graafiline disainer, reklaamgraafik;2;;244;1 747;22 077
+Graafiline disain;Loovjuht, loovjuht kujundus- või reklaamibüroos;3;;371;;
+Haldus;Koristaja, majahoidja;1;;79;708;9 234
+Haldus;Haldusspetsialist, administraator;2;;121;1 115;14 176
+Haldus;Haldusspetsialist;3;;184;1 561;19 891
+Haldus;Haldusspetsialist, kinnisvara haldur;4;;244;1 906;24 612
+Haldus;Haldusjuht, haldusteenuse sisseostu juht ;5;;323;2 442;32 319
+Haldus;Haldusdirektor, administratiivjuht suures organisatsioonis;6;;492;3 229;42 165
+Haldus;Suure administratiivfunktsiooni /osakonna juht, administratiivjuht;7;;651;5 842;78 636
+IKT - andmebaasi administratsioon;Andmebaasi administraator;1;;212;2 073;26 091
+IKT - andmebaasi administratsioon;Andmebaasi vanemadministraator;2;;281;2 590;32 944
+IKT - andmebaasi administratsioon;Juhtiv administraator, andmebaaside juhtiv ekspert;3;;371;3 055;38 960
+IKT - andmebaasi administratsioon;Andmebaaside arenduse ja administreerimise juht;4;;492;4 099;52 983
+IKT - andmeturve;Turbe spetsialist, turbeanalüütik, turbetestija;1;;212;2 263;28 695
+IKT - andmeturve;Infosüsteemi turbeekspert/turbe vanemspetsialist, Information Security Officer ;2;;281;2 587;32 516
+IKT - andmeturve;Infosüsteemi turbejuht, infosüsteemi turbe vanemaudiitor, Information Security Officer;3A;;371;3 267;41 587
+IKT - andmeturve;Andmeturbe insener/vaneminsener, võrguturbe insener/vaneminsener;3B;;371;3 256;41 243
+IKT - andmeturve;Infosüsteemi turbejuht, infosüsteemi turbe juhtivaudiitor, Information Security Officer;4;;492;4 553;56 822
+IKT - DevOps;Noorem DevOps spetsialist, noorem DevOps insener;1;;184;2 086;26 248
+IKT - DevOps;DevOps spetsialist, DevOps insener;2;;281;2 972;36 937
+IKT - DevOps;Vanem DevOps insener, juhtiv DevOps insener;3;;371;3 900;48 353
+IKT - DevOps;DevOps juht, DevOps tiimijuht;4;;492;4 371;54 968
+IKT - dokumentatsioon;Noorem technical writer;1;;160;1 537;19 460
+IKT - dokumentatsioon;Technical writer;2;;212;2 004;24 643
+IKT - dokumentatsioon;Senior technical writer;3;;244;2 076;27 396
+IKT - dokumentatsioon;Lead technical writer;4;;323;-;-
+IKT - front-end tarkvara arendus;Noorem-programmeerija, noorem arendaja, programmeerija;1;;160;1 666;20 432
+IKT - front-end tarkvara arendus;Front-end arendaja;2;;212;2 580;32 082
+IKT - front-end tarkvara arendus; Vanem front-end arendaja, senior front-end developer;3;;323;3 094;38 916
+IKT - front-end tarkvara arendus;Lead front-end developer, technical lead;4;;427;3 815;49 465
+IKT - graafiline disain;Flashi graafik, HTML5 graafik;1;;160;1 599;19 503
+IKT - graafiline disain;2D graafik, 3D graafik, animaaator, kujundaja, arvutigraafik;2;;244;2 230;27 807
+IKT - graafiline disain;2D graafik, 3D graafik, vanemanimaator, -kujundaja, -spetsialist, -arvutigraafik, Lead Designer;3;;323;2 616;33 117
+IKT - graafiline disain;2D graafik, 3D graafik, juhtiv animaator, -kujundaja, -arvutigraafik, Art Director;4;;427;4 088;52 643
+IKT - juhtimine;Tiimijuht ;1;;281;3 075;40 189
+IKT - juhtimine;IT üksuse juht;2;;371;3 518;46 051
+IKT - juhtimine;Suure IT üksuse juht;3;;492;3 880;50 742
+IKT - juhtimine;IT juht, IT divisjoni juht;4;;566;4 847;62 982
+IKT - juhtimine;IT direktor, IT divisjoni direktor, Senior IT manager;5;;651;5 531;78 388
+IKT - juhtimine;IT direktor, CTO;6;;750;8 363;112 147
+IKT - konsultandid;Tehniline konsultant, lahenduste konsultant, IT-konsultant;1;;184;1 618;19 785
+IKT - konsultandid;Tehniline konsultant, IT-konsultant, ärikonsultant, juurutamise konsultant;2;;244;2 118;26 591
+IKT - konsultandid;Vanemkonsultant, vanem tehniline konsultant;3;;323;3 070;38 679
+IKT - konsultandid;Juhtiv konsultant;4;;427;3 720;48 128
+IKT - masinõpe;Masinõppe nooreminsener;1;;212;-;-
+IKT - masinõpe;Masinõppe insener;2;;281;2 882;35 257
+IKT - masinõpe;Masinõppe vaneminsener ;3;;371;3 683;47 413
+IKT - masinõpe;Masinõppe peainsener;4;;492;4 513;61 771
+IKT - monitooring;Monitooringu spetsialist;1;;139;1 431;18 541
+IKT - monitooring;Monitooringu spetsialist;2;;212;1 650;21 754
+IKT - müük ja kliendihaldus;Müügiassistent, müügisekretär, müügikoordinaator;1;;160;1 614;20 027
+IKT - müük ja kliendihaldus;Kliendikonsultant, müügikonsultant;2;;184;1 653;21 009
+IKT - müük ja kliendihaldus;Vanem kliendikonsultant, vanem müügikonsultant;3;;244;2 096;30 019
+IKT - müük ja kliendihaldus;Kliendihaldur, account manager;4;;281;2 641;36 781
+IKT - müük ja kliendihaldus;Vanem kliendihaldur, müügijuht, senior account manager;5;;371;3 061;42 569
+IKT - müük ja kliendihaldus;Senior key account manager, program manager;6;;492;3 656;47 837
+IKT - müük ja kliendihaldus;Program manager, accounts director, kliendigrupi direktor;7;;651;3 925;55 927
+IKT - paigaldus ja hooldus (tehnikud);IT-tehnik, andmekeskuse tehnik;1;;139;1 180;14 975
+IKT - paigaldus ja hooldus (tehnikud);IT-vanemtehnik, andmekeskuse vanemtehnik;2;;184;1 612;21 010
+IKT - paigaldus ja hooldus (tehnikud);IT-juhtivtehnik, andmekeskuse juhtivtehnik;3;;212;1 700;22 844
+IKT - projektijuhtimine;IT projektikoordinaator, IT projektiadministraator;1;;184;1 947;24 610
+IKT - projektijuhtimine;IT projektijuht, IT ressursijuht;2;;244;2 337;29 713
+IKT - projektijuhtimine;IT projektijuht;3;;371;2 820;35 741
+IKT - projektijuhtimine;IT vanemprojektijuht;4;;492;3 526;47 114
+IKT - projektijuhtimine;Program manager, lead projektijuht;5;;566;4 293;55 342
+IKT - protsessijuhtimine;Protsessijuht, kvaliteedijuht, rakenduste juht, protsessi analüütik, versioonihaldur;1;;323;2 454;30 706
+IKT - protsessijuhtimine;Protsessijuht, kvaliteedijuht;2;;427;3 521;45 791
+IKT - SCRUM projektijuhtimine;SCRUM master;1;;323;3 276;40 550
+IKT - süsteemiadministratsioon;Infosüsteemi administraator, võrguadministraator, infosüsteemi insener, süsteemiadministraator;1;;212;1 938;24 676
+IKT - süsteemiadministratsioon;Infosüsteemi administraator, UNIX administraator;2;;281;2 479;31 544
+IKT - süsteemiadministratsioon;Infosüsteemi vanem administraator, infosüsteemi juhtiv insener;3;;371;3 123;39 832
+IKT - süsteemiadministratsioon;Infosüsteemi juhtiv administraator, infosüsteemi administreerimise tiimijuht;4;;492;3 577;46 610
+IKT - süsteemianalüüs;Noorem süsteemianalüütik;1;;184;1 792;21 872
+IKT - süsteemianalüüs;Süsteemianalüütik;2;;244;2 322;29 167
+IKT - süsteemianalüüs;Vanem süsteemianalüütik, süsteemi disainer;3;;323;2 747;34 914
+IKT - süsteemianalüüs;Juhtiv süsteemianalüütik, tehniline konsultant, tarkvara arhitekt;4;;492;3 516;45 872
+IKT - süsteemiarhitektuur;Süsteemiarhitekt, tarkvaraarhitekt;1;;281;2 979;37 653
+IKT - süsteemiarhitektuur;Süsteemiarhitekt, vanem tarkvaraarhitekt;2;;371;3 599;46 055
+IKT - süsteemiarhitektuur;Juhtiv süsteemiarhitekt, vanem tarkvaraarhitekt;3;;492;4 188;53 354
+IKT - süsteemiarhitektuur;Juhtiv süsteemiarhitekt, juhtiv tarkvaraarhitekt, arendusjuht;4;;651;4 831;62 660
+IKT - tarkvara arendus;Noorem-programmeerija, programmeerija, noorem-arendaja;1;;184;1 796;21 945
+IKT - tarkvara arendus;Infosüsteemide/rakenduste back-end arendaja, tarkvarainsener, süsteemiinsener;2;;244;2 444;30 511
+IKT - tarkvara arendus;Infosüsteemide/rakenduste back-end arendaja, tarkvarainsener, süsteemiinsener;3;;323;3 028;38 026
+IKT - tarkvara arendus;Infosüsteemide/rakenduste back-end vanemarendaja, vanem tarkvarainsener, vanem süsteemiinsener;4;;371;3 653;45 574
+IKT - tarkvara arendus;Infosüsteemide/rakenduste technical lead, lead developer, juhtiv tarkvarainsener;5;;492;4 241;53 769
+IKT - teenuste tugi;Kasutajatoe nooremspetsialist, teenuse toe operaator;1;;139;1 267;15 689
+IKT - teenuste tugi;Kasutajatoe spetsialist, teenuste administraator;2;;160;1 560;19 673
+IKT - teenuste tugi;Kasutajatoe vanemspetsialist, rakenduste administraator, infosüsteemi konsultant;3;;212;1 967;25 045
+IKT - teenuste tugi;Kasutajatoe spetsialist, rakenduste administraator, infosüsteemi administraator, infosüsteemi konsultant;4;;244;2 406;30 824
+IKT - teenuste tugi;IT toe juht;5;;371;2 627;34 398
+IKT - tehniline tugi;IT- tehnilise toe spetsialist, arvutitugi, computer support/technical support spetsialist;1;;139;1 343;17 183
+IKT - tehniline tugi;IT- tehnilise vanem spetsialist, computer support/technical support senior spetsialist;2;;184;1 608;20 366
+IKT - tehniline tugi;Vanem IT- tehniline spetsialist, computer support/technical support senior spetsialist;3;;212;1 913;24 713
+IKT - tehniline tugi;IT- tehnilise toe juhtivspetsialist, computer support/technical support spetsialist;4;;244;2 347;30 742
+IKT - tehniline tugi;IT- tehnilise toe juht;5;;371;2 874;36 069
+IKT - telekommunikatsiooni insener;Insener;1;;184;1 795;22 422
+IKT - telekommunikatsiooni insener;Kogenud insener;2;;244;2 325;29 362
+IKT - telekommunikatsiooni insener;Juhtivinsener;3;;371;3 133;39 314
+IKT - telekommunikatsiooni insener - juhtimine;Valdkonna juht ;1;;371;2 956;39 097
+IKT - telekommunikatsiooni insener - juhtimine;Osakonna juht;2;;427;3 441;46 481
+IKT - telekommunikatsiooni insener - juhtimine;Üksuse juht, divisjoni juht, tehnoloogiajuht;3;;651;7 371;96 508
+IKT - testimine;Noorem testija;1;;139;1 495;18 033
+IKT - testimine;Testija;2;;184;1 847;22 762
+IKT - testimine;Vanem testija, testiinsener, analüütik-testija;3;;244;2 332;28 639
+IKT - testimine;Juhtivtestija;4;;323;2 902;36 283
+IKT - testimine;Testijuht, testijate tiimijuht;5;;427;3 284;42 153
+IKT - toote omanik (product owner);Product owner, technical product manager;1;;281;2 749;33 832
+IKT - toote omanik (product owner);Senior Product owner, technical product manager;2;;371;3 212;40 117
+IKT - toote omanik (product owner);Senior product owner, technical product manager;3;;492;4 569;57 152
+IKT - UX disain;UX-disainer;1;;244;2 413;29 658
+IKT - UX disain;Senior UX-disainer;2;;371;3 132;39 043
+IKT - ärianalüüs;Noorem ärianalüütik, protsessianalüütik;1;;184;1 865;23 836
+IKT - ärianalüüs;Ärianalüütik, protsessianalüütik;2;;244;2 438;29 858
+IKT - ärianalüüs;Vanem ärianalüütik, protsessianalüütik, konsultant;3;;323;2 859;35 169
+IKT - ärianalüüs;Juhtiv ärianalüütik, ERP arhitekt;4;;492;3 561;45 202
+Info- ja dokumendihaldus ning kontroll;Andmesisestaja, tehniline assistent, andmeassistent;1;;121;1 002;12 767
+Info- ja dokumendihaldus ning kontroll;Kontoritöötaja, assistent, dokumendihalduse spetsialist, verifikatsiooni spetsialist;2;;139;1 241;15 532
+Info- ja dokumendihaldus ning kontroll;Dokumendihalduse spetsialist, verifikatsiooni spetsialist;3;;184;1 409;18 022
+Info- ja dokumendihaldus ning kontroll;Vanemasjaajaja, vanem dokumendihalduse spetsialist, vanem verifikatsiooni spetsialist, vanemarhivaar;4;;212;1 832;23 969
+Info- ja dokumendihaldus ning kontroll;Asjaajamisosakonna juhataja, dokumendihalduse osakonna juhataja, peaarhivaar;5;;323;2 380;30 275
+Insenerid - disain ja tootearendus;Nooreminsener, tehnoloog, disainer;1;;160;1 572;19 904
+Insenerid - disain ja tootearendus;Tootedisaini spetsialist, tootearenduse spetsialist, disainer, tootearenduse insener;2;;212;1 824;22 576
+Insenerid - disain ja tootearendus;Tootedisaini vanem spetsialist, tootearenduse vanem spetsialist, disainer;3;;281;2 050;26 869
+Insenerid - disain ja tootearendus;Juhtivdisainer, tootearenduse spetsialist;4;;371;3 409;44 693
+Insenerid - juhtimine;Valdkonna juht;1;;371;2 639;36 351
+Insenerid - juhtimine;Peatehnoloog, peainsener, tehnikadirektor, tehnikaosakonna juhtaja, arendusjuht;2;;492;3 153;42 039
+Insenerid - juhtimine;Arendusdirektor, Baltikumi arendusdirektor, tehnikadirektor;3;;651;5 050;70 174
+Insenerid - müük ja teenindus;Noorem klienditeeninduse insener, klienditugi-insener, noorem müügiinsener;1;;160;1 435;18 642
+Insenerid - müük ja teenindus;Klienditeeninduse insener, Customer Support Engineer;2;;212;1 776;23 678
+Insenerid - müük ja teenindus;Vanem klienditeeninduse insener, Customer Support Engineer;3;;281;2 216;29 337
+Insenerid - müük ja teenindus;Keeruliste seadmete/seadeldiste klienditeeninduse insener, klienditeeninduse juhtivinsener;4;;323;3 031;39 324
+Insenerid - projekteerimine;Nooreminsener, joonestaja, tehnik;1;;160;1 399;18 745
+Insenerid - projekteerimine;Insener, konstruktor, projekteerija;2;;212;1 755;22 195
+Insenerid - projekteerimine;Vaneminsener, kogenud konstruktor, keerukate projektide projekteerija;3;;281;2 168;27 793
+Insenerid - projekteerimine;Peakonstruktor, peaprojekteerija, projekteerimisosakonna juhataja;4;;323;2 712;35 230
+Insenerid - projektijuhtimine;Projektiadministraator, projekti koordinaator, projekti assistent;1;;160;1 396;17 626
+Insenerid - projektijuhtimine;Projektijuht;2;;244;2 026;26 239
+Insenerid - projektijuhtimine;Vanemprojektijuht, töögrupijuht, tiimijuht;3;;323;2 485;34 008
+Insenerid - projektijuhtimine;Projektidirektor;4;;427;3 075;47 935
+Insenerid - seadmed;Nooreminsener, insener-mehaanik, elektroonik;1;;160;1 373;18 602
+Insenerid - seadmed;Mehaanika-, elektri-, insener-konstruktor, tehnoloog;2;;212;1 776;23 266
+Insenerid - seadmed;Mehaanika-, elektri-, telekommunikatsiooniinsener, insener-konstruktor, tehnoloog-meister;3;;281;2 062;27 599
+Insenerid - seadmed;Vanem-mehaanika-, elektri-, telekommunikatsiooniinsener, insener-grupijuht, tehnikajuht;4;;371;2 627;34 704
+Insenerid - tehniline oskusteave ja dokumentatsioon;Nooreminsener, tehniline spetsialist, tehniline assistent, inspektor, tehnik;1;;160;1 333;17 045
+Insenerid - tehniline oskusteave ja dokumentatsioon;Insener, keskkonnakaitse insener, analüütik, tehniline konsultant;2;;212;1 793;22 987
+Insenerid - tehniline oskusteave ja dokumentatsioon;Vanem insener, keskkonnakaitse vaneminsener, vanem analüütik, vanem tehniline konsultant, tippspetsialist;3;;281;2 115;28 308
+Insenerid - tehniline oskusteave ja dokumentatsioon;Ekspert, vanemtehnoloog, juhtivekspert, vanem tehniline ekspert, inseneride grupijuht;4;;323;2 376;31 417
+Insenerid - tehnoloogia ja protsessid;Nooreminsener, nooremtehnoloog, insener-tehnoloog;1;;160;1 450;18 375
+Insenerid - tehnoloogia ja protsessid;Insener, tehnoloog, kvaliteedikontrolli insener, protsessiinsener;2;;212;1 685;22 228
+Insenerid - tehnoloogia ja protsessid;Vanem insener, vanem tehnoloog, vanem protsessiinsener;3;;281;2 184;28 395
+Insenerid - tehnoloogia ja protsessid;Juhtivinsener, vanemtehnoloog;4;;371;2 580;33 802
+Jaekaubandus;Kassiir, müüja, kaubapaigutaja;1;;91;811;9 500
+Jaekaubandus;Müüja, müüja-konsultant;2;;121;787;10 455
+Jaekaubandus;Vanemmüüja, vahetuse vanem, väikese müügikoha (kuni 5 töötajat) juhataja (tabelisse tase 3+);3;;160;1 082;14 007
+Jaekaubandus;Väikese kaupluse (5- 20 töötajat) juhataja (tabelis tase 4-), suure või keskmise suurusega kaupluse (21 ja rohkem töötajat) struktuuriüksuse juhataja, kaubagrupi juht;4;;212;1 241;17 199
+Jaekaubandus;Keskmise suurusega kaupluse (21 - 50 töötajat) juhataja, suure kaupluse (51 ja rohkem töötajat) struktuuriüksuse juhataja;5;;371;1 778;23 607
+Jaekaubandus;Suure kaupluse (51 ja rohkem töötajat) juhataja;6;;492;2 419;32 795
+Jaekaubandus;Kauplusteketi juhataja, regioonijuht;7;;566;3 301;44 465
+Juhtimiskonsultandid;Assistent, nooremkonsultant;1;;160;-;-
+Juhtimiskonsultandid;Nooremkonsultant, konsultant ;2;;244;-;-
+Juhtimiskonsultandid;Vanemkonsultant, projektijuht, koolitaja-treener;3;;371;3 066;38 984
+Juhtimiskonsultandid;Vanemkonsultant, ärivaldkonna juht;4;;427;-;-
+Juriidilised teenused;Juristiabi, jurist-asjaajaja ;1;;160;1 325;16 908
+Juriidilised teenused;Jurist;2;;244;2 169;27 863
+Juriidilised teenused;Vanemjurist, juriidiline nõustaja, väikese juriidilise struktuuriüksuse juht;3;;323;2 754;35 385
+Juriidilised teenused;Juriidilise üksuse juht väikeses organisatsioonis, peajurist, juriidiline nõustaja;4;;371;3 393;44 754
+Juriidilised teenused;Juriidilise struktuuriüksuse juhataja keskmise suurusega organisatsioonis, peajurist;5;;427;3 879;53 654
+Juriidilised teenused;Juriidilise struktuuriüksuse direktor suures organisatsioonis, õigusdirektor;6;;566;6 227;85 190
+Kategooria juhtimine;Kategooria spetsialist, noorem-kategooriajuht, kategooriakoordinaator;1;;184;1 277;15 968
+Kategooria juhtimine;Kategooriajuht;2;;281;1 965;26 743
+Kategooria juhtimine;Kategooriagrupi juht, osakonnajuht, grupijuht;3;;427;3 411;46 163
+Kinnisvaraportfelli haldus;Kinnisvarahaldur, noorem-kinnisvaramaakler;1;;184;-;-
+Kinnisvaraportfelli haldus;Vanem-kinnisvarahaldur, vanem-kinnisvaramaakler, kinnisvarahaldur, analüütik;2;;244;1 747;23 921
+Kinnisvaraportfelli haldus;Vanem-kinnisvarahaldur, vanem-kinnisvaramaakler, ehituse juht, vanem-ehituse juht;3;;281;-;-
+Kinnisvaraportfelli haldus;Kinnisvarahalduse osakonna juhataja;4;;427;-;-
+Kinnisvaraportfelli haldus;Kinnisvarahalduse direktor;5;;566;-;-
+Kliendihaldus;Ärikliendihaldur, suhtehaldur, account manager;1;;244;1 710;23 263
+Kliendihaldus;Ärikliendihaldur, vanem suhtehaldur, regionaalhaldur, ärisuhete juht, peaspetsialist;2;;323;2 116;28 501
+Kliendihaldus;Suurkliendihaldur, korporatiivkliendi haldur, kliendisuhete juht, partnerite müügijuht;3;;371;2 908;39 540
+Kliendihaldus;Võtmekliendihaldur, suurkliendihaldur, korporatiivkliendi haldur, kliendisuhete juht;4;;427;4 081;53 538
+Klienditeenindus;Administraator, infoteenistuse töötaja;1;;121;1 042;13 293
+Klienditeenindus;Klienditeeninduse spetsialist, administraator, klienditoe spetsialist;2;;139;1 136;14 881
+Klienditeenindus;Klienditeeninduse vanemspetsialist, äriklienditeenindaja, klienditoe spetsialist;3;;160;1 343;17 469
+Klienditeenindus;Kliendihaldur, kliendinõustaja, klienditoe vanemspetsialist, vanem klienditeenindaja, kliendikonsultant;4;;212;1 589;20 693
+Klienditeenindus;Klienditeeninduse vanemspetsialist, klienditoe vanemspetsialist, kliendikonsultant;5;;244;1 895;24 866
+Klienditeeninduse ja -halduse juhtimine;Klienditeeninduse juhataja väikeses organisatsioonis, müügiesinduse juht, klienditeenindusüksuse juhataja, tiimijuht, teenindusjuht;1;;281;1 822;23 811
+Klienditeeninduse ja -halduse juhtimine;Äriklientide halduse või väikese üksuse juht, kliendisuhete juht, koostööpartnerite osakonna juhataja, võtmekliendijuht, teenindusjuht, grupijuht, partnerkanalite juht;2;;427;2 456;33 047
+Klienditeeninduse ja -halduse juhtimine;Klienditeeninduse juht keskmise suurusega organisatsioonis, klienditeeninduse üksuse juhataja, direktor väikeses organisatsioonis, kliendisuhete arendusjuht;3;;492;3 440;44 375
+Klienditeeninduse ja -halduse juhtimine;Osakonnajuhataja, ärikliendi osakonna juht, direktor, divisjoni juht;4;;566;4 162;56 929
+Klienditeeninduse ja -halduse juhtimine;Klienditeeninduse direktor suures organisatsioonis, klienditeeninduse divisjoni juht suures organisatsioonis, direktor, globaalne ärikliendihaldur;5;;651;5 160;64 623
+Kommunikatsioonijuhtimine;Pressiesindaja, noorem-kommunikatsioonispetsialist, kommunikatsioonibüroo assistent;1;;160;1 478;18 386
+Kommunikatsioonijuhtimine;Kommunikatsioonispetsialist, kommunikatsioonibüroo nooremkonsultant;2;;244;1 834;22 713
+Kommunikatsioonijuhtimine;Kommunikatsiooni vanemspetsialist, kommunikatsioonijuht keskmise suurusega organisatsioonis, meediajuht, avalike suhete või kommunikatsiooninõunik, kommunikatsioonibüroo konsultant;3;;323;2 450;31 862
+Kommunikatsioonijuhtimine;Avalike suhete juht, suhtekorraldus- või kommunikatsioonijuht keskmise suurusega organisatsioonis, meediajuht, kommunikatsioonibüroo vanemkonsultant;4;;427;3 052;39 195
+Kommunikatsioonijuhtimine;Suhtekorraldusjuht või kommunikatsioonijuht või kommunikatsioonidirektor suures organisatsioonis, kommunikatsiooniosakonna juhataja, turundus- ja kommunikatsioonidirektor, kommunikatsioonibüroo juhtivkonsultant;5;;566;4 860;62 867
+Koolitus;Sisekoolitaja;1;;160;1 446;17 429
+Koolitus;Sisekoolitaja, treener;2;;212;1 674;21 152
+Koolitus;Koolitusspetsialist, sisekoolitaja, treener;3;;281;2 089;27 312
+Kvaliteedijuhtimine;Kvaliteedispetsialist;1;;244;1 658;21 023
+Kvaliteedijuhtimine;Kvaliteedijuht väikeses või keskmise suurusega organisatsioonis;2;;281;2 325;30 057
+Kvaliteedijuhtimine;Kvaliteediosakonna juhataja, kvaliteedidirektor väikeses või keskmise suurusega organisatsioonis;3;;371;2 810;36 732
+Kvaliteedijuhtimine;Kvaliteedidirektor, arendus- ja kvaliteediosakonna juhataja;4;;492;3 290;42 240
+Kvaliteedikontroll;Kvaliteedikontrolör, kvaliteedispetsialist;1;;139;1 030;13 594
+Kvaliteedikontroll;Vanem-kvaliteedikontrolör;2;;184;1 373;17 203
+Kvaliteedikontroll;Tiimijuht, vahetuse vanem;3;;212;1 633;20 651
+Kvaliteet - laboritööd;Assistent, laboriassistent;1;;91;816;11 007
+Kvaliteet - laboritööd;Laborant;2;;121;1 155;14 499
+Kvaliteet - laboritööd;Laborant-mikrobioloog, laborant, tehnik;3;;184;1 288;15 830
+Kvaliteet - laboritööd;Vanemlaborant, keemik;4;;244;1 688;21 842
+Kvaliteet - laboritööd;Laboratooriumi juhataja;5;;323;2 055;28 143
+Ladu;Laotööline, laooperaator, komplekteerija, markeerija;1;;91;978;12 850
+Ladu;Laohoidja, laopidaja, kauba vastuvõtja;2;;139;1 115;14 230
+Ladu;Laospetsialist, lao vahetuse vanem, laopidaja;3;;160;1 320;17 289
+Ladu;Laohoidja, väikese lao juhataja;4;;184;1 589;21 325
+Ladu;Laojuhataja;5;;244;2 053;27 298
+Ladu;Ladude direktor (mitu suurt ladu);6;;427;3 088;41 512
+Logistika;Tellimuste koordinaator, logistika assistent;1;;121;1 130;14 364
+Logistika;Vanem-tellimuste koordinaator, logistikaspetsialist, tollispetsialist;2;;184;1 422;18 683
+Logistika;Vanem-vedudespetsialist, vanem-logistikaspetsialist, tolliagent, logistikajuht;3;;244;1 770;23 930
+Logistika;Vedude osakonna juhataja, logistikajuht;4;;371;2 683;35 623
+Logistika;Logistikadirektor suures organisatsioonis (transport on organisatsiooni põhitegevusala);5;;566;4 127;56 472
+Loovtööd;Dekoraator;1;;121;-;22 311
+Loovtööd;Fotograaf, kunstnik - dekoraator;2;;184;1 683;20 650
+Loovtööd;Kuntsnik-kujundaja, fotograaf;3;;244;1 682;22 747
+Maastikukujundus, aiandus ja taimekasvatus;Aednik, aednik - haljastusspetsialist;1;;139;;
+Maastikukujundus, aiandus ja taimekasvatus;Maastikuarhitekt (rakendus), vanemaednik, dendroloog ;2;;212;;
+Maastikukujundus, aiandus ja taimekasvatus;Maastikuarhitekt (diplomeeritud), taimekaitse spetsialist, peadendroloog ;3;;281;;
+Maastikukujundus, aiandus ja taimekasvatus;Valdkonna juht, osakonna juhataja, maastikuarhitekt (volitatud);4;;371;;
+Müük;Müügiassistent, klienditeeninduse operaator, müügisekretär;1;;121;1 198;15 307
+Müük;Müügiagent, müügiassistent, telefonimüügioperaator, müügikonsultant, müügispetsialist;2;;139;1 209;16 361
+Müük;Müügiesindaja, müügiagent, müügispetsialist;3;;184;1 515;22 194
+Müük;Ärikliendihaldur, vanem müügiesindaja, müügispetsialist, lahenduste müügispetsialist;4;;244;1 950;28 980
+Müük;Müügijuht, tootejuht, Key Account Manager, müügikanali juht;5;;323;2 526;36 622
+Müük;Ühe piirkonna müügijuht, kaubagrupi müügijuht, müügijuht, Key Account Manager;6;;427;3 050;42 876
+Müük;Müügidirektor keskmise suurusega organisatsioonis, müügiosakonna juhataja, müügijuht, esinduse juhataja;7;;566;3 951;55 611
+Müük;Müügidirektor suures organisatsioonis, Balti riikide müügijuht, turundus- ja müügidirektor, esinduse juhataja, esinduse juhataja Balti riikides;8;;651;6 432;90 415
+Organisatsiooni protseduurid;Noorem protseduuride spetsialist, noorem tööohutuse ja töökeskkonna spetsialist ;1;;139;1 433;17 931
+Organisatsiooni protseduurid;Protseduuride spetsialist, tööohutuse ja töökeskkonna spetsialist, protsessianalüütik;2;;184;1 707;21 633
+Organisatsiooni protseduurid;Protseduuride vanemspetsialist, kvaliteedisüsteemi peaspetsialist, tööohutuse ja töökeskkonna vanemspetsialist, protsessianalüütik, kvaliteedijuht keskmise suurusega organisatsioonis;3;;244;1 987;25 516
+Organisatsiooni protseduurid;Arendus- või kvaliteedisüsteemi osakonna juhataja väikeses ja keskmise suurusega organisatsioonis (kuni 500 töötajat), protsessiekspert, arendusekspert, tööohutuse ja töökeskkonna osakonna juhataja;4;;323;2 655;34 762
+Organisatsiooni protseduurid;Arendus- või kvaliteediosakonna juhataja suures organisatsioonis, kvaliteedijuhtimise osakonna juhataja;5;;492;3 558;46 535
+Oskustöölised - erimasinad;Tõstuki, traktori, ekskavaatori, buldooseri juht;1;;105;957;13 970
+Oskustöölised - erimasinad;Kraana, ekskavaatori, buldooseri juht;2;;139;1 188;16 622
+Oskustöölised - erimasinad;Kraana, ekskavaatori, buldooseri juht;3;;184;1 179;19 970
+Oskustöölised - eriseadmed;Lukksepp, elektrik, keevitaja, montöör, treial, mehhaanik, automaatik, operaator, tehnik;1;;105;1 031;14 153
+Oskustöölised - eriseadmed;Lukksepp, elektrik, keevitaja, montöör, treial, mehhaanik, operaator, tehnik, seadistaja, montöör;2;;139;1 226;16 740
+Oskustöölised - eriseadmed;Lukksepp, elektrik, keevitaja, montöör, treial, meister, seadistaja-operaator, tehnik, automaatik, mehhatroonik;3;;184;1 489;20 382
+Oskustöölised - eriseadmed;Vanem/juhtivtehnik, tehnikaspetsialist, meeskonnavanem, vanem mehhatroonik;4;;212;1 722;23 072
+Oskustöölised - teenindustehnikud;Müügieelse ettevalmistuse spetsialist, paigaldusspetsialist, hooldusteenindaja, noorem teenindustehnik, tehnik, garantiitööde tehnik;1;;139;1 091;19 007
+Oskustöölised - teenindustehnikud;Paigaldusspetsialist, hooldusspetsialist, teenindustehnik, diagnostik-elektrik, elektroonik, elektrotehnik, garantiispetsialist, tehnik;2;;184;1 246;18 325
+Oskustöölised - teenindustehnikud;Vanem hooldusmeister, tehniline konsultant, tehniline ekspert, teenindustehnikute meeskonnajuht, teenindustehnikute koolitaja;3;;212;1 587;23 093
+Oskustöölised - teenindustehnikud;Teenindustehnikute meeskonnajuht;4;;281;1 997;27 371
+Oskustöölised - tehnoloogia ja protsessid;Protsessioperaator, seguvalmistaja;1;;105;1 008;13 973
+Oskustöölised - tehnoloogia ja protsessid;Protsessioperaator, vanem-masinaoperaator;2;;139;1 208;16 528
+Oskustöölised - tehnoloogia ja protsessid;Vanemprotsessioperaator, meister, juhtpuldi operaator;3;;184;1 319;19 167
+Oskustöölised - tehnoloogia ja protsessid;Meeskonnavanem, vanem-/juhtivoperaator, meister;4;;212;1 709;22 901
+Personali värbamine;Värbamisassistent;1;;160;1 408;17 282
+Personali värbamine;Värbaja, värbamisspetsialist;2;;184;1 675;20 594
+Personali värbamine;Vanemvärbaja, värbamiskonsultant, värbamispartner;3;;244;2 140;26 922
+Personali värbamine;Värbamisosakonna juhataja, värbamisjuht;4;;323;2 775;33 912
+Personalijuhtimine;Personaliarvestaja, personaliassistent;1;;139;1 318;16 300
+Personalijuhtimine;Personalispetsialist ühes valdkonnas, koolitusspetsialist, töösuhete spetsialist;2;;184;1 600;20 205
+Personalijuhtimine;Vanem personalispetsialist, HR generalist, konsultant, nõunik, koolitusjuht, arendusjuht, personalianalüütik;3;;244;1 914;23 971
+Personalijuhtimine;Personalijuht väikeses organisatsioonis, personalijuhtimise kompetentsikeskuse juht, valdkondliku osakonna juhataja, personalipartner;4;;371;2 458;31 759
+Personalijuhtimine;Personaliosakonna juhataja keskmise suurusega organisatsioonis, rahvusvahelise vastutusega strateegiline personalipartner (täidab strateegilise personalipartneri funktsiooni kolmes või enamas riigis);5;;427;3 045;39 962
+Personalijuhtimine;Personalidirektor suures organisatsioonis, Baltikumi personalijuht;6;;566;3 928;51 059
+Personalijuhtimine;Personalidirektor suures rahvusvahelises organisatsioonis, suure organisatsiooni Baltikumi personalijuht;7;;651;8 358;112 450
+Projektijuhtimine;Projektiadministraator, projekti koordinaator, projekti assistent;1;;160;1 510;19 427
+Projektijuhtimine;Projekti koordinator, projektijuht;2;;212;1 965;25 121
+Projektijuhtimine;Vanemprojektijuht, töögrupijuht, tiimijuht;3;;323;2 551;33 186
+Projektijuhtimine;Projektijuht, rahvusvaheliste projektide juht;4;;427;3 432;46 299
+Raamatupidamine;Raamatupidaja abi, raamatupidaja, kassiir;1;;121;1 199;14 990
+Raamatupidamine;Raamatupidaja, palgaarvestuse raamatupidaja, maksete spetsialist;2;;184;1 513;19 260
+Raamatupidamine;Vanemraamatupidaja, pearaamatupidaja asetäitja, pearaamatupidaja väikeses organisatsioonis;3;;244;1 948;24 931
+Raamatupidamine;Pearaamatupidaja keskmise suurusega organisatsioonis, raamatupidamisosakonna juhataja (kuluarvestus, arveldused vms);4;;371;2 521;32 559
+Raamatupidamine;Pearaamatupidaja keskmise suurusega või suures organisatsioonis, pearaamatupidaja asetäitja suures organisatsioonis;5;;492;3 014;39 904
+Raamatupidamine;Pearaamatupidaja suures organisatsioonis, raamatupidamisosakonna juhataja, organisatsioonide grupi pearaamatupidaja;6;;566;4 223;54 859
+Ressursijuhtimine;Ressursside koordinaator, ressursside administraator, ressursiarvestaja;1;;160;1 372;17 294
+Ressursijuhtimine;Ressursijuht, ressursianalüütik;2;;212;1 798;22 220
+Ressursijuhtimine;Ressursi arendusjuht, vanem-ressursijuht;3;;281;2 725;34 157
+Riiulikujundus ja -paigutus;Planograaf;1;;184;1 379;17 398
+Saaliteenindus;Kelneri õpilane, portjee, saaliteenindaja;1;;91;-;-
+Saaliteenindus;Ettekandja, kelner ;2;;121;-;11 031
+Saaliteenindus;Administraator, ülemkelner, vahetuse ülem, saaliülem;3;;139;1 052;14 066
+Sisekontroll;Nooremspetsialist;1;;139;1 358;14 859
+Sisekontroll;Keskastme spetsialist;2;;184;1 750;22 824
+Sisekontroll;Tippspetsialist;3;;281;2 307;29 515
+Sisekontroll;Üksuse juht;4;;427;3 608;47 979
+Sisseost;Ostuassistent, ostuspetsialist;1;;139;1 152;14 541
+Sisseost;Ostuspetsialist, ostja;2;;184;1 541;19 707
+Sisseost;Vanemostuspetsialist, ostujuht;3;;244;2 008;26 166
+Sisseost;Ostujuht, varustusosakonna juhataja keskmise suurusega organisatsioonis;4;;371;2 865;38 442
+Sisseost;Ostudirektor suures organisatsioonis;5;;566;3 790;50 696
+Sõidukijuhid;Kuller, jalgrattakuller;1;;79;843;10 873
+Sõidukijuhid;Autojuht;2;;105;993;12 813
+Sõidukijuhid;Juhi personaalne autojuht;3;;121;1 091;15 267
+Sõidukijuhid;Autojuht, väikebussijuht, veoautojuht;4;;139;1 179;16 533
+Sõidukijuhid;Eriotstarbelise veoauto juht;5;;160;1 054;16 493
+Sõidukijuhid;Veoautojuht, trammijuht, trollijuht, bussijuht;6;;184;1 207;17 332
+Sõidukijuhid;Kaugliini bussijuht, tellimusvedude juht;7;;212;-;-
+Tarneahela juhtimine;Tarneahela juht, logistika juht;1;;492;3 315;42 667
+Tarneahela juhtimine;Tarneahela juht;2;;651;4 743;64 528
+Teenuste kvaliteedi juhtimine;Teenuste kvaliteedi nooremanalüütik;1;;160;1 288;16 958
+Teenuste kvaliteedi juhtimine;Teenuse kvaliteedi analüütik ;2;;212;1 672;21 272
+Teenuste kvaliteedi juhtimine;Kvaliteedijuht ;3;;323;2 587;33 882
+Tegevusriskide juhtimine;Riskispetsialist, analüütik;1;;212;1 768;22 058
+Tegevusriskide juhtimine;Tegevusriskide vanemspetsialist, tegevusriskide kontroller, tegevusriskide juht, tegevusriskide grupijuht;2;;323;2 559;32 675
+Tegevusriskide juhtimine;Tegevusriskiüksuse juht;3;;427;3 451;43 391
+Tegevusriskide juhtimine;Tegevusriskiüksuse juht suures organisatsioonis;4;;566;4 604;59 517
+Tegevusriskide juhtimine;Tegevusriskiüksuse juht suures rahvusvahelises organisatsioonis;5;;651;-;-
+Toimetamine ja keeleline korrektuur;Keeletoimetaja;1;;160;1 645;20 760
+Toitlustamine;Koka abiline, koka õpilane, kokk;1;;91;796;9 610
+Toitlustamine;Kokk, kondiiter;2;;139;962;11 986
+Toitlustamine;Vanemkokk;3;;160;1 179;14 670
+Toitlustamine;Peakokk sööklas;4;;212;1 752;21 127
+Toitlustamine;Peakokk restoranis;5;;427;-;-
+Toote- ja teenusearendus;Tootearenduse spetsialist, ärianalüütik;1;;212;1 775;22 117
+Toote- ja teenusearendus;Tootespetsialist, ärianalüütik;2;;244;2 176;27 474
+Toote- ja teenusearendus;Valdkonna juht, vanem-tootespetsialist, vanem-ärianalüütik, turuanalüüsi juht;3;;323;2 818;36 094
+Toote- ja teenusearendus;Väikese toote- või teenusearendusüksuse juht, erilahenduste juht;4;;427;3 678;47 454
+Toote- ja teenusearendus;Suure toote- või teenusearendusüksuse juht, toote- või teenusearendusdirektor;5;;651;5 066;69 649
+Toote- ja teenusejuhtimine;Nooremspetsialist, noorem-ärianalüütik;1;;212;1 803;22 610
+Toote- ja teenusejuhtimine;Spetsialist, noorem- toote/teenusejuht, turundusanalüütik;2;;244;1 953;24 628
+Toote- ja teenusejuhtimine;Toote/teenuse vanemspetsialist, vanem-ärianalüütik;3;;323;2 689;35 939
+Toote- ja teenusejuhtimine;Vanemprojektijuht, vanem-ärianalüütik, turuanalüüsi juht;4;;371;3 456;47 498
+Tootmise ja tarneahela planeerimine;Materjalikorraldaja, materjalide administraator, repairment administrator;1;;139;1 415;18 752
+Tootmise ja tarneahela planeerimine;Tootmise planeerija, planeemisspetsialist, ladude planeerija;2;;184;1 562;19 891
+Tootmise ja tarneahela planeerimine;Tootmise planeerija, planeemisspetsialist ;3;;244;2 015;25 849
+Tootmise ja tarneahela planeerimine;Tootmise planeerimise juht;4;;323;2 357;31 140
+Tootmise juhtimine;Töödejuhataja, brigadir, vahetuseülem;1;;184;1 542;19 968
+Tootmise juhtimine;Tootmisüksuse juht, tsehhijuhataja;2;;244;1 849;25 268
+Tootmise juhtimine;Suure tootmisüksuse juht, tootmisosakonna juhataja, tootmisosakonna juhataja asetäitja, teenuste osakonna juhataja;3;;371;2 380;33 116
+Tootmise juhtimine;Tootmisjuht, tsehhijuht, teenindusettevõtte osakonnajuhataja;4;;492;3 140;42 885
+Tootmise juhtimine;Tootmisjuht, tehasejuht, teenindusettevõtte struktuuriüksuse juhataja;5;;566;3 792;52 058
+Tootmise juhtimine;Tootmisdivisjoni juht suures organisatsioonis, tootmisdirektor suures organisatsioonis;6;;651;5 054;68 977
+Tugiteenused - finantsteenused;Finantsteenuste nooremspetsialist, finantsteenuste spetsialist, palgaarvestaja, arvete spetsialist;1;;139;1 198;14 881
+Tugiteenused - finantsteenused;Finantsteenuste spetsialist, raamatupidaja, palgaarvestaja, aruandlusspetsialist;2;;184;1 568;19 988
+Tugiteenused - finantsteenused;Finantsteenuste vanemspetsialist, vanemraamatupidaja;3;;244;2 011;26 133
+Tugiteenused - finantsteenused;Meeskonnajuht, operatiivjuht, osakonna juhataja;4;;281;2 600;34 855
+Tugiteenused - finantsteenused;Finantsteenuste analüütik;5;;323;2 701;34 994
+Tugiteenused - finantsteenused;Finantsteenuste juht, finantsteenuste keskuse juht;6;;427;3 955;51 585
+Tugiteenused - HR, sisseost, logistika;Nooremspetsialist;1;;139;1 208;14 844
+Tugiteenused - HR, sisseost, logistika;Spetsialist (näiteks ostuspetsialist, HR spetsialist);2;;184;1 641;20 487
+Tugiteenused - HR, sisseost, logistika;Ekspert, Super user, Vanemspetsialist;3;;244;1 872;23 885
+Tugiteenused - HR, sisseost, logistika;Meeskonnajuht, operatiivjuht, teenuste juht, osakonna juhataja, tiimijuht;4;;281;-;-
+Tugiteenused - HR, sisseost, logistika;Grupijuht, teenindusjuht, üksuse juht;5;;371;-;-
+Tugiteenused - kõnekeskused;Kõnekeskuse nooremteenindaja, infotelefoni teenindaja;1;;121;955;11 582
+Tugiteenused - kõnekeskused;Kõnekeskuse teenindaja, klienditoe spetsialist, operaator, klienditugi, rikketeenindaja;2;;139;1 123;15 469
+Tugiteenused - kõnekeskused;Kogenud kõnekeskuse teenindaja, kliendihaldur, müügikonsultant;3;;160;1 305;17 337
+Tugiteenused - kõnekeskused;Vanem kõnekeskuse teenindaja, tiimijuht, tellimuste vanemhaldur, juhtivteenindaja;4;;212;1 610;20 801
+Tugiteenused - kõnekeskused;Meeskonnajuht, operatiivjuht, teenuste juht, osakonna juhataja;5;;281;2 122;26 617
+Tugiteenused - kõnekeskused;Grupijuht, teenindusjuht, kõnekeskuse juht;6;;371;2 951;41 731
+Turundus;Turundusspetsialist, turundusanalüütik;1;;212;1 586;20 660
+Turundus;Turunduse vanemspetsialist, brändijuht, turundusanalüütik;2;;281;2 101;26 555
+Turundus;Turundusjuht väikeses organisatsioonis, organisatsiooni brändijuht;3;;323;2 457;31 537
+Turundus assisteerimine;Turundusassistent;1;;139;1 329;16 738
+Turundus assisteerimine;Turundusassistent;2;;160;1 511;18 686
+Turundus juhtimine;Turundusjuht keskmise suurusega organisatsioonis;1;;427;3 222;41 226
+Turundus juhtimine;Turundusdirektor suures organisatsioonis;2;;566;4 550;62 371
+Turvatööd;Valvetöötaja, väravavalvur, valvur, öövalvur, sisevalve töötaja;1;;79;674;8 811
+Turvatööd;Turvatöötaja, valveteenistuja;2;;121;1 307;13 605
+Turvatööd;Turvatöötaja, turvamees;3;;139;1 394;19 766
+Turvatööd;Patrullekipaaži liige, tuletõrjuja, turvatöötaja;4;;184;1 711;20 179
+Turvatööd;Turvateenistuse juht, turvajuht, vanem turvaspetsialist;5;;281;2 165;27 412
+Turvatööd;Chief Security Officer, turvadirektor, turvajuht;6;;492;3 232;42 044
+Tõlkimine;Tõlk, sekretär-tõlk;1;;160;1 073;13 572
+Tõlkimine;Tõlkija, eksperttõlk;2;;212;1 635;21 486
+Tõlkimine;Sertifitseeritud tõlkija, sünkroontõlkija, diplomaatiline tõlkija;3;;323;2 151;26 755
+Töölised;Abitööline, tööline, liinitööline, monteerija, pakkija, kaaluja, komplekteerija, laadija, transporttööline ;1;;79;795;11 109
+Töölised;Tööline, liinitööline, valmistaja-pakendaja, detailide parandaja, monteerija, koostetööline, üldtööde teostaja, seadme operaator, pingi operaator, transporttööline;2;;105;1 001;13 037
+Töölised;Vanemtööline, vastutav tööline, meister, liini operaator, seadme operaator, seadistaja-operaator, testija, katsetaja, kontrollija, PRE-troubleshooter, vanem monteerija;3;;121;1 020;15 772
+Töölised;Tööjaotaja, tööjuhi abi, eestööline, vahetusvanem;4;;139;1 263;17 238
+Visuaalne kaubandus (VM) ja sisekujundus;Dekoraator, stilist;1;;139;1 158;13 221
+Visuaalne kaubandus (VM) ja sisekujundus;Vanem dekoraator, stilist;2;;184;-;-
+Visuaalne kaubandus (VM) ja sisekujundus;Väljapanekute spetsialist;3;;244;1 587;20 248
+Visuaalne kaubandus (VM) ja sisekujundus;Sisearhitekt;4;;323;-;-
+Võlahaldus;Võlgnike administraator, laenukontroll, krediidiadministraator, võlgnike andmebaasi administraator;1;;160;1 229;16 039
+Võlahaldus;Vanem võlgnike administraator, jurist, maksete sissenõudmise spetsialist;2;;244;1 587;20 764
+Äri- ja tegevusvaldkonna analüüs;Noorem analüütik;1;;160;1 330;16 435
+Äri- ja tegevusvaldkonna analüüs;Analüütik;2;;212;1 935;24 262
+Äri- ja tegevusvaldkonna analüüs;Turuanalüütik, protsessianalüütik, majandusanalüütik;3;;281;2 386;30 097
+Äri- ja tegevusvaldkonna analüüs;Vanemanalüütik, ärianalüütik;4;;427;3 261;42 491
+Äriarenduse valdkond;Äriarenduse projektijuht, äriarendusjuht;1;;323;3 119;39 486
+Äriarenduse valdkond;Arendusjuht, arendusosakonna juht;2;;492;3 909;51 984
+Äriarenduse valdkond;Arendusdirektor, arendusjuht;3;;651;6 047;76 576
