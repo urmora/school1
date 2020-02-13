@@ -104,3 +104,17 @@ def close_connection(exception):
         cn.close()
 ```
 
+Ülevalolevas näites SQL lause ```select id, name from products order by name``` valib kõik tooted ja järjestab nad nime järgi, kasvavas järjekorras. Kogu näide on siinsamas repositooriumis, [tooted alamkataloogis](tooted).
+
+## Andmebaas
+
+Andmebaasi loomiseks on hea luua SQL skript, mis loob schema (lihtsamal juhul tabelid) ja eraldi skript, mis sisestab andmebaasi andmed. Näiteks tabelite loomiseks SQLites (kustutab alguses tabelid kui need juba olemas on!):
+
+```
+create table products (
+  id integer primary key,
+  name text not null
+);
+```
+
+Ülalolev näide loob tabeli products millel on kaks tulpa (column-it) - primaarvõtme tulp 'id' (automaatselt kasvatatav number) ning tekstitulp name. Mõlemad tulbad on kohustuslikud, st ei tohi sisestada puuduvat väärtust (NULL).
